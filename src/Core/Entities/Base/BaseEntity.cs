@@ -6,5 +6,7 @@ namespace Core.Entities
     {
         [JsonProperty(PropertyName = "id")]
         public virtual string Id { get; set; }
+
+        public virtual string TenantId { get; set; }
     }
 }
