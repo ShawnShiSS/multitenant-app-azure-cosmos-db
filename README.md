@@ -25,3 +25,4 @@ A starting point to build a multi-tenant web API to work with Azure Cosmos DB, b
 ## Additional Resources
 I have published some short articles to cover different aspects of this project. Please feel free to give them a read.
 * [Understanding Multitenancy Isolation Models in Plain English](https://medium.com/geekculture/understanding-multitenancy-isolation-models-in-plain-english-c296b100035e)
+* [Building Multitenant App using Azure Cosmos DB in Clean Architecture](https://medium.com/geekculture/building-multitenant-app-using-azure-cosmos-db-in-clean-architecture-910b94fe3adf)
